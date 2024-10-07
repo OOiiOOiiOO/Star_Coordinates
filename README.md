@@ -5,3 +5,6 @@
 Star coordinates is a tool for visualizing multi-dimensional data. Given a dataset, Star Coordinates allocates an axis on a 2D circle to each attribute in the dataset. Initially, all the lengths and the angles between the axes are equal. Additionally, each data entry is mapped on the 2D space by aggregating the effect of all the axes (attributes).
 
 ![SegmentLocal](star_coordinates_animation.gif "segment")
+
+**View the project in the teacher's booklet:**
+https://laboratorypatternrecognition.github.io/PatternRecognition_S/PR/StudentEffort/Star%20Coordinates/Star_Coordinates.html
